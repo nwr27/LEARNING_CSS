@@ -1,0 +1,10 @@
+1. display:flex
+2. flex-direction
+3. flex-wrap
+4. justify-content
+5. align-items
+6. align-content
+7. order
+8. flex-grow:... / flex:...
+9. align-self
+10

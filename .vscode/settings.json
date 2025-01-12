@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme Palenight High Contrast",
+  "editor.fontSize": 14,
+  "window.zoomLevel": 3,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "editor.wrappingIndent": "same",
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "liveServer.settings.CustomBrowser": "firefox"
+}
